@@ -1,5 +1,5 @@
 # Hound-Drone
-
+Hey guys! here are some initial goals. Something to get started. If you have any other suggestion go ahead and add them. 
 ## Goals 
 1. Check sensors on Navio
 -> make sure they are working.
@@ -35,7 +35,10 @@
         - if altitude3 <= desired altitude then pitch up to stall angle
         - power off
  
--> here is a basic key for the flow chart 
+-> Here we can make the flow chart with github:
+draw.io
+
+-> here is a basic key for the flow chart
 
 ![basic-symbols](https://user-images.githubusercontent.com/33044780/35118521-9f43c916-fc57-11e7-9fab-b766d3943330.jpg)
 
